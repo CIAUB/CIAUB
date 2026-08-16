@@ -26,14 +26,14 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CIAUB&theme=red&hide_border=true&background=0D1117&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" />
+<img src="./assets/sharingan.svg" width="300" alt="Sharingan" />
 </p>
 
 ### Connect
 
 <p align="center">
-<a href="https://t.me/CIAUB"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://t.me/CIAUB_CH"><img src="https://img.shields.io/badge/Channel-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/VCIAU"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/VCIAU_CH"><img src="https://img.shields.io/badge/Channel-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center">
