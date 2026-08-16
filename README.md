@@ -21,8 +21,8 @@
 ### Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.demolab.com/api?username=CIAUB&show_icons=true&theme=red&hide_border=true&bg_color=0d1117&title_color=8B0000&icon_color=8B0000" />
-<img height="160" src="https://github-readme-stats.demolab.com/api/top-langs/?username=CIAUB&layout=compact&theme=red&hide_border=true&bg_color=0d1117&title_color=8B0000" />
+<img height="28" src="https://img.shields.io/github/followers/CIAUB?label=Followers&style=for-the-badge&color=8B0000" />
+<img height="28" src="https://img.shields.io/github/stars/CIAUB?label=Stars&style=for-the-badge&color=8B0000" />
 </p>
 
 <p align="center">
