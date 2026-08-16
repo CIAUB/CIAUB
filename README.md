@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="./assets/sharingan.svg" width="300" alt="Sharingan" />
+<img src="./sharingan.jpg" width="300" alt="Sharingan" />
 </p>
 
 ### Connect
