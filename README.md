@@ -32,8 +32,8 @@
 ### Connect
 
 <p align="center">
-<a href="https://t.me/VCIAU"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://t.me/VCIAU_CH"><img src="https://img.shields.io/badge/Channel-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/CIAUB"><img src="https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/CIAUB_CH"><img src="https://img.shields.io/badge/Channel-8B0000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center">
