@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは, I'm CIAUB 🍥</h1>
 
-<h3 align="center">"Those who break the rules are scum, but those who abandon their comrades are worse than scum." — Itachi Uchiha</h3>
+<h3 align="center">You're already caught in my genjutsu.</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=Sharingan-sharp+Debugging;Clean+Code%2C+Silent+Precision;Python+%26+JavaScript+Developer" alt="Typing SVG" />
