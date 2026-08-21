@@ -8,9 +8,9 @@
 
 ### About Me
 
-- 🥷 Plans ahead, executes with precision.
-- 🔥 Loves clean architecture and solving hard problems.
-- 👁️ Sharp eye for bugs — Sharingan Debug Mode: ON.
+-  Plans ahead, executes with precision.
+-  Loves clean architecture and solving hard problems.
+-  Sharp eye for bugs
 
 ### Tech Stack
 
