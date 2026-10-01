@@ -1,4 +1,3 @@
-
 <h1 align="center">こんにちは, I'm CIA 🍥</h1>
 <h3 align="center">You're already caught in my genjutsu.</h3>
 
@@ -8,9 +7,9 @@
 
 ### About Me
 
-- Plans ahead, executes with precision.
-- Loves clean architecture and solving hard problems.
-- Sharp eye for bugs.
+* Plans ahead, executes with precision.
+* Loves clean architecture and solving hard problems.
+* Sharp eye for bugs.
 
 ### Tech Stack
 
@@ -43,14 +42,8 @@
 ### Support
 
 <p align="center">
-  <a href="https://nowpayments.io/embeds/donation-widget?api_key=8373139c-0aec-4e38-b34c-88dd005cfc1c">
-    <img src="https://img.shields.io/badge/Support%20Me-Crypto%20Donation-8B0000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto Donation" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://nowpayments.io/embeds/donation-widget?api_key=8373139c-0aec-4e38-b34c-88dd005cfc1c">
-    Open Donation Widget ↗
+  <a href="https://nowpayments.io/embeds/donation-widget?api_key=8373139c-0aec-4e38-b34c-88dd005cfc1c" target="_blank" rel="noreferrer noopener">
+    <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments" />
   </a>
 </p>
 
